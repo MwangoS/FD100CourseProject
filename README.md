@@ -1,8 +1,8 @@
 # FD100 Course Project
 
 Contributors
-Mwango Sichone 
-Clara Mwenda
+Mwango Sichone, 
+Clara Mwenda,
 Malama Kangwa
 
 GIT Reference Guide
